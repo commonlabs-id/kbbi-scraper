@@ -1,0 +1,10 @@
+{
+  "name": "kbbi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "bullmq": "^1.6.6",
+    "puppeteer": "^2.0.0"
+  }
+}
